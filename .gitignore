@@ -1,2 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 *
+# Ignore organized files and user-specific data
+Organized_Files/
+__pycache__/
+*.pdf
+*.docx
