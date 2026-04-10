@@ -1,0 +1,7 @@
+Digital_Logic_Circuits: 24CSEN1002, digital logic, circuits, gates, flip flops, boolean algebra
+Programming_PPS_2: 24CSEN1041, programming, problem solving, data structures, algorithms, c++
+Engineering_Chemistry: CHEM1111, CHEM1111P, chemistry, organic, inorganic, titration, chemical
+Communicative_English_2: LANG1252, english, communication, technical writing, professional skills
+Linear_Algebra: MATH1272, linear algebra, matrices, vectors, determinants, eigenvalues
+Engineering_Visualization: MECH1011, visualization, product realization, engineering drawing, cad, sketches
+Technology_Exploration: MECH1041, technology exploration, product engineering, design thinking, prototyping,IOT
